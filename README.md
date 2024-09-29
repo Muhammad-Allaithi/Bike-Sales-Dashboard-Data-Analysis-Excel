@@ -12,3 +12,4 @@ Designed an Excel-based dashboard for analyzing bike sales data across various d
 - Utilized slicers for marital status, education, region, and commute distance, allowing dynamic data exploration and comparisons.
 
 ## Dashboard
+![Screenshot 2024-09-29 210825](https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard/blob/main/Screenshot%202024-09-29%20210825.png)

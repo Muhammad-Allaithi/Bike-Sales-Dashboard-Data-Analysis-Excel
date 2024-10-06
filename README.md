@@ -25,3 +25,6 @@ Designed an Excel-based dashboard for analyzing bike sales data across various d
 - Age Groups and Bike Purchases.
 - Commute Distance and Bike Purchases.
 - Impact of Filters.
+
+## Final Conclusion
+The "Bike Sales Dashboard" shows that higher-income individuals, especially males, are more likely to purchase bikes. Middle-aged customers make up the majority of buyers, while adolescents and older groups purchase less. Customers with shorter commutes are more likely to buy bikes, with purchases decreasing as commute distance increases. Filters for education, marital status, and region offer further analysis opportunities.

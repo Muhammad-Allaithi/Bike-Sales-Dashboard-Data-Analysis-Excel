@@ -5,6 +5,12 @@ Designed an Excel-based dashboard for analyzing bike sales data across various d
 ## Dataset Used
 - <a href="https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard/blob/9bfac560d2bd9335e48f34978b70b066f6f20471/Full%20Project%20in%20Excel.xlsx">Dataset</a>
 
+## Questions
+- How does income vary between customers who purchased bikes and those who didn't?
+- How does age affect the likelihood of bike purchases?
+- How does the distance customers commute relate to bike purchases?
+- Do factors such as marital status, education, and region influence bike purchases?
+
 ## Process
 - Visualized average income per gender and their likelihood of purchasing a bike, using bar charts.
 - Line chart showcasing bike purchases across different age brackets (adolescent, middle age, and old).

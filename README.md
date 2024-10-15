@@ -22,7 +22,7 @@ Designed an Excel-based dashboard for analyzing bike sales data across various d
 ## Dashboard
 ![Screenshot 2024-09-29 210825](https://github.com/Muhammad-Allaithi/Data-Analysis-Dashboard/blob/main/Screenshot%202024-09-29%20210825.png)
 
-## Project Insights
+## Project Insight
 - Income and Bike Purchases.
 - Age Groups and Bike Purchases.
 - Commute Distance and Bike Purchases.
